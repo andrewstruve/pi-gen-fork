@@ -1,6 +1,6 @@
 IMG_NAME="fullscreenpi"
 RELEASE="bullseye"
-LOCALE_DEFAULT="en_USE.UTF-8"
+LOCALE_DEFAULT="en_US.UTF-8"
 TARGET_HOSTNAME="fullscreen"
 FIRST_USER_NAME="pi"
 FIRST_USER_PASS="pi"
